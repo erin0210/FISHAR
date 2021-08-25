@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muzium_nelayan3", "Muzium_nelayan3.csproj", "{F2D62CCA-30DD-FAA5-1BC5-8E85D33A9CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muzium_nelayan3.Editor", "Muzium_nelayan3.Editor.csproj", "{BA768219-4A76-2222-AB19-B71424E3EE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D62CCA-30DD-FAA5-1BC5-8E85D33A9CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D62CCA-30DD-FAA5-1BC5-8E85D33A9CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D62CCA-30DD-FAA5-1BC5-8E85D33A9CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D62CCA-30DD-FAA5-1BC5-8E85D33A9CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA768219-4A76-2222-AB19-B71424E3EE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA768219-4A76-2222-AB19-B71424E3EE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA768219-4A76-2222-AB19-B71424E3EE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA768219-4A76-2222-AB19-B71424E3EE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
